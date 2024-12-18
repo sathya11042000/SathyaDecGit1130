@@ -6,6 +6,8 @@ public class Sample {
 		System.out.println("Bala");
 		System.out.println("dhanush");
 		System.out.println("dhanush 2");
+		System.out.println("Mukesh");
+		System.out.println("m");
 
 	}
 
